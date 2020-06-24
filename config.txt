@@ -1,0 +1,8 @@
+phones level: 6.5;
+tone: 0;
+monitor: tape;
+pitch: 0;
+record mode: limiter;
+record level: 2.5;
+mic att: -20db;
+a.n.c.: -1;
